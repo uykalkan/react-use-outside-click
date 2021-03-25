@@ -1,6 +1,6 @@
 {
   "name": "react-use-outside-click",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple hook solution for React to handle outside clicks of elements or components",
   "author": "Ümit Yaşar Kalkan",
   "license": "Apache-2.0",

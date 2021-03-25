@@ -1,3 +1,6 @@
+[![npm version](http://img.shields.io/npm/v/react-use-outside-click.svg?style=flat-square)](https://npmjs.org/package/react-use-outside-click "View this project on npm")
+[![npm version](http://img.shields.io/npm/dm/react-use-outside-click.svg?style=flat-square)](https://npmjs.org/package/react-use-outside-click "View this project on npm")
+[![npm licence](http://img.shields.io/npm/l/react-use-outside-click.svg?style=flat-square)](https://npmjs.org/package/react-use-outside-click "View this project on npm")
 
 # Installation
 
